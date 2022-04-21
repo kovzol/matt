@@ -1,5 +1,7 @@
 # Matt - A minimalist chess game against the computer
 
+![A screenshot of Matt](matt-screenshot.png)
+
 Play chess with the computer. You need Python3/PyGame to run this program.
 
 The variables, function names and comments are currently written in Hungarian.
@@ -14,6 +16,7 @@ Authors:
 Tested by the authors and
 
   * Domonkos Kovács <kovdom07@gmail.com>
+  * Gábor Béres
 
 Credits:
 
